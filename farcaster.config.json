@@ -1,0 +1,15 @@
+{
+  "name": "MotivBase",
+  "description": "K\u0131sa motivasyon s\u00f6zleri \u2014 be\u011fenirsen profilinde payla\u015f (0.1 USD).",
+  "icon": "https://yourdomain.com/icon.png",
+  "splash": {
+    "backgroundColor": "#0ea5e9",
+    "imageUrl": "https://yourdomain.com/splash.png"
+  },
+  "homeUrl": "https://motivbase.vercel.app",
+  "categories": [
+    "social",
+    "utility"
+  ],
+  "version": "0.1.0"
+}
