@@ -1,6 +1,6 @@
 # MotivBase - MiniApp (Mock Payment first version)
 
-MotivBase shows a random motivational quote with a beautiful background.
+MotivBase showss a random motivational quote with a beautiful background.
 Users can generate a shareable image and (mock) pay $0.1 to "share" it to their profile.
 
 ## Run locally
