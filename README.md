@@ -1,4 +1,5 @@
 Burası Türkçeleştirilecek.
+base bitmeyecek
 # MotivBase - MiniApp (Mock Payment first version)
 
 MotivBase showss a random motivational quote with a beautiful background.
